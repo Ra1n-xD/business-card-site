@@ -15,10 +15,11 @@ function TrickPage() {
                         <div className="video-wrapper">
                             <iframe
                                 src={trick.src}
-                                title="YouTube video player"
+                                title={trick.title}
                                 frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                allowfullscreen
+                                allowfullscreen='true'
+                                seamless="seamless"
                             ></iframe>
                         </div>
                     </div>
