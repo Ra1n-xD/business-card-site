@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/y-practicum/static/css/main.aff46ebe.css",
+    "main.js": "/y-practicum/static/js/main.302f2f8d.js",
+    "static/media/bg.png": "/y-practicum/static/media/bg.42da85f3975660c9ab86.png",
+    "static/media/me.png": "/y-practicum/static/media/me.fe3e74b0969b8b61a6ee.png",
+    "static/media/1.png": "/y-practicum/static/media/1.09f654b0e07d0ca7a054.png",
+    "static/media/2.png": "/y-practicum/static/media/2.fc609e1fd6f66898588b.png",
+    "static/media/sun.svg": "/y-practicum/static/media/sun.f8606845ee97bee21c3bc95b2dec3866.svg",
+    "static/media/moon.svg": "/y-practicum/static/media/moon.312bed9230c94183d589bcc499993093.svg",
+    "static/media/gitHub.svg": "/y-practicum/static/media/gitHub.a5541850a2a6843f34467a91657cc39d.svg",
+    "static/media/vk.svg": "/y-practicum/static/media/vk.92c39b2c917df4fd4643503dd57a49bf.svg",
+    "static/media/tg.svg": "/y-practicum/static/media/tg.d8092109827b87aca32adcf6d1862ef2.svg",
+    "index.html": "/y-practicum/index.html",
+    "main.aff46ebe.css.map": "/y-practicum/static/css/main.aff46ebe.css.map",
+    "main.302f2f8d.js.map": "/y-practicum/static/js/main.302f2f8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aff46ebe.css",
+    "static/js/main.302f2f8d.js"
+  ]
+}
