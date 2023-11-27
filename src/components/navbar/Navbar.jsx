@@ -10,7 +10,7 @@ function Navbar() {
             <div className="container">
                 <div className="nav-row">
                     <NavLink to="/" className="logo">
-                        <strong>Яндекс</strong> Практикум
+                        Червоненко Эдуард
                     </NavLink>
 
                     <BtnDarkMode />
@@ -20,7 +20,7 @@ function Navbar() {
                                 Главная
                             </NavLink>
                         </li>
-                        <li className="nav-list__item">
+                        {/* <li className="nav-list__item">
                             <NavLink to="/tricks" className={({ isActive }) => (isActive ? activeLink : defaultLink)}>
                                 Фишки CSS
                             </NavLink>
@@ -29,7 +29,7 @@ function Navbar() {
                             <NavLink to="/task" className={({ isActive }) => (isActive ? activeLink : defaultLink)}>
                                 Задачка JS
                             </NavLink>
-                        </li>
+                        </li> */}
                         <li className="nav-list__item">
                             <NavLink to="/contacts" className={({ isActive }) => (isActive ? activeLink : defaultLink)}>
                                 Контакты

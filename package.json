@@ -1,8 +1,8 @@
 {
-  "name": "y-practicum",
+  "name": "business-card-site",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://ra1n-xd.github.io/y-practicum/",
+  "homepage": "https://ra1n-xd.github.io/business-card-site/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",

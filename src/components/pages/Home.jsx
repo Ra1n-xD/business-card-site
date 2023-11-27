@@ -15,7 +15,15 @@ function Home() {
                             <img src={me} alt="me" />
                         </div>
 
-                        <ul className="content-list">
+                        <ul className="content-list">                      
+                            <li className="content-list__item">
+                                <h2 className="title-2">Frontend</h2>
+                                <p>JavaScript, Next.js, React, TypeScript, Redux Toolkit, Zustand, HTML, CSS, Bootstrap, Formik, Yup</p>
+                            </li>
+                            <li className="content-list__item">
+                                <h2 className="title-2">Backend</h2>
+                                <p>Node.js, MySQL, MongoDB</p>
+                            </li>
                             <li className="content-list__item">
                                 <h2 className="title-2">История</h2>
                                 <p>
@@ -23,14 +31,6 @@ function Home() {
                                     на фронтенде. Создание интерактивных пользовательских интерфейсов было всегда для меня очень интересно. По возможности проводил дни и ночи, изучая HTML, CSS и
                                     JavaScript, и каждый новый проект приносил мне огромное удовольствие.
                                 </p>
-                            </li>
-                            <li className="content-list__item">
-                                <h2 className="title-2">Frontend</h2>
-                                <p>JavaScript, Next.js, React, TypeScript, Redux, React Router, HTML, CSS, Bootstrap.</p>
-                            </li>
-                            <li className="content-list__item">
-                                <h2 className="title-2">Backend</h2>
-                                <p>NodeJS, MySQL, MongoDB</p>
                             </li>
                         </ul>
                     </div>

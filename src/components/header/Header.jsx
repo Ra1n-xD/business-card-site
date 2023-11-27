@@ -3,15 +3,9 @@ function Header() {
         <header className="header">
             <div className="header__wrapper">
                 <h1 className="header__title">
-                    <strong>
-                        Червоненко Эдуард <br />
-                        <em>
-                            <span>Я</span>ндекс Практикум
-                        </em>
-                    </strong>
-                    <br />
-                    <span>frontend наставник</span>
+                    Червоненко Эдуард
                 </h1>
+                <span>FrontEnd разработчик</span>
             </div>
         </header>
     );

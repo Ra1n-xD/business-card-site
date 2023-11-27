@@ -7,7 +7,7 @@ function Contacts() {
                 <ul className="content-list">
                     <li className="content-list__item">
                         <h2 className="title-2">Место проживания</h2>
-                        <p>Белгород / Благовещенск, Россия</p>
+                        <p>Белгород, Россия</p>
                     </li>
                     <li className="content-list__item">
                         <h2 className="title-2">Telegram</h2>

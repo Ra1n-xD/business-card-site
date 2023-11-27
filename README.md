@@ -1,8 +1,8 @@
-# Тестовое на Фронтенд-Наставника в Яндекс Практикум
+# Червоненко Эдуард. Сайт-визитка FrontEnd разработчик.
 
 ### Деплой сайта
 
-https://ra1n-xd.github.io/y-practicum/
+https://ra1n-xd.github.io/business-card-site/
 
 ### Как я могу помочь
 
