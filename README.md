@@ -1,7 +1,7 @@
 # Червоненко Эдуард. Сайт-визитка FrontEnd разработчик.
 
 ## Деплой сайта
-Ознакомиться с приложения можно [здесь](https://ra1n-xd.github.io/business-card-site/).
+Ознакомиться с приложением можно [здесь](https://ra1n-xd.github.io/business-card-site/).
 
 ## JS Developer
 **Основной стек:** JavaScript, React, Next.js, TypeScript, Zustand, Redux Toolkit, HTML, CSS, Bootstrap, Formik, Yup
