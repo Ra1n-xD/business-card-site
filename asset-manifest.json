@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/business-card-site/static/css/main.eae9f559.css",
-    "main.js": "/business-card-site/static/js/main.f13f4de0.js",
-    "static/media/bg.png": "/business-card-site/static/media/bg.42da85f3975660c9ab86.png",
-    "static/media/me.png": "/business-card-site/static/media/me.fe3e74b0969b8b61a6ee.png",
-    "static/media/1.png": "/business-card-site/static/media/1.09f654b0e07d0ca7a054.png",
-    "static/media/2.png": "/business-card-site/static/media/2.fc609e1fd6f66898588b.png",
-    "static/media/sun.svg": "/business-card-site/static/media/sun.f8606845ee97bee21c3bc95b2dec3866.svg",
-    "static/media/moon.svg": "/business-card-site/static/media/moon.312bed9230c94183d589bcc499993093.svg",
-    "static/media/gitHub.svg": "/business-card-site/static/media/gitHub.a5541850a2a6843f34467a91657cc39d.svg",
-    "static/media/vk.svg": "/business-card-site/static/media/vk.92c39b2c917df4fd4643503dd57a49bf.svg",
-    "index.html": "/business-card-site/index.html",
-    "static/media/tg.svg": "/business-card-site/static/media/tg.d8092109827b87aca32adcf6d1862ef2.svg",
-    "main.eae9f559.css.map": "/business-card-site/static/css/main.eae9f559.css.map",
-    "main.f13f4de0.js.map": "/business-card-site/static/js/main.f13f4de0.js.map"
+    "main.css": "/portfolio-react/static/css/main.381014a1.css",
+    "main.js": "/portfolio-react/static/js/main.670105a1.js",
+    "static/media/bg.png": "/portfolio-react/static/media/bg.42da85f3975660c9ab86.png",
+    "static/media/me.png": "/portfolio-react/static/media/me.fe3e74b0969b8b61a6ee.png",
+    "static/media/1.png": "/portfolio-react/static/media/1.09f654b0e07d0ca7a054.png",
+    "static/media/2.png": "/portfolio-react/static/media/2.fc609e1fd6f66898588b.png",
+    "static/media/sun.svg": "/portfolio-react/static/media/sun.f8606845ee97bee21c3bc95b2dec3866.svg",
+    "static/media/moon.svg": "/portfolio-react/static/media/moon.312bed9230c94183d589bcc499993093.svg",
+    "static/media/gitHub.svg": "/portfolio-react/static/media/gitHub.a5541850a2a6843f34467a91657cc39d.svg",
+    "static/media/vk.svg": "/portfolio-react/static/media/vk.92c39b2c917df4fd4643503dd57a49bf.svg",
+    "static/media/tg.svg": "/portfolio-react/static/media/tg.d8092109827b87aca32adcf6d1862ef2.svg",
+    "index.html": "/portfolio-react/index.html",
+    "main.381014a1.css.map": "/portfolio-react/static/css/main.381014a1.css.map",
+    "main.670105a1.js.map": "/portfolio-react/static/js/main.670105a1.js.map"
   },
   "entrypoints": [
-    "static/css/main.eae9f559.css",
-    "static/js/main.f13f4de0.js"
+    "static/css/main.381014a1.css",
+    "static/js/main.670105a1.js"
   ]
 }
