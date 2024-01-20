@@ -14,18 +14,18 @@ function Footer() {
                             </a>
                         </li>
                         <li className="social__item">
-                            <a href="https://vk.com/ra1n_xd" target="_blank">
-                                <img src={vk} alt="Link" />
-                            </a>
-                        </li>
-                        <li className="social__item">
                             <a href="https://github.com/Ra1n-xD/y-practicum" target="_blank">
                                 <img src={gh} alt="Link" />
                             </a>
                         </li>
+                        <li className="social__item">
+                            <a href="https://vk.com/ra1n_xd" target="_blank">
+                                <img src={vk} alt="Link" />
+                            </a>
+                        </li>
                     </ul>
                     <div className="copyright">
-                        <p>© 2023 Chervonenko Eduard</p>
+                        <p>© {new Date().getFullYear()} Chervonenko Eduard</p>
                     </div>
                 </div>
             </div>

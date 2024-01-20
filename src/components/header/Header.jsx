@@ -5,7 +5,7 @@ function Header() {
                 <h1 className="header__title">
                     Червоненко Эдуард
                 </h1>
-                <span>FrontEnd разработчик</span>
+                <p>Frontend developer</p>
             </div>
         </header>
     );

@@ -1,31 +1,31 @@
 import { useParams } from 'react-router-dom';
-import { tricks } from '../../helpers/tricksList';
+import { projects } from '../../helpers/projectsList';
 
-function TrickPage() {
+function ProjectPage() {
     const { id } = useParams();
-    const trick = tricks[id];
+    const project = projects[id];
 
     return (
         <main className="section">
             <div className="container">
                 <div className="project-details">
-                    <h1 className="title-1">{trick.title}</h1>
+                    <h1 className="title-1">{project.title}</h1>
 
                     <div className="project-details__video">
                         <div className="video-wrapper">
-                            <iframe
-                                src={trick.src}
-                                title={trick.title}
+                            {/* <iframe
+                                src={project.src}
+                                title={project.title}
                                 frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                 allowfullscreen='true'
                                 seamless="seamless"
-                            ></iframe>
+                            ></iframe> */}
                         </div>
                     </div>
 
                     <div className="project-details__desc">
-                        <p>{trick.desc}</p>
+                        <p>{project.desc}</p>
                     </div>
                 </div>
             </div>
@@ -33,4 +33,4 @@ function TrickPage() {
     );
 }
 
-export default TrickPage;
+export default ProjectPage;
