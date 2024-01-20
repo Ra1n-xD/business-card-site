@@ -1,8 +1,5 @@
 # Червоненко Эдуард Анатольевич 
 
-## Деплой сайта
-Ознакомиться с приложением можно [здесь](https://ra1n-xd.github.io/portfolio-react/).
-
 ## Frontend Developer
 **Основной стек:** JavaScript, React, Next.js, TypeScript, Zustand, Redux Toolkit, HTML, CSS, Bootstrap, Formik, Yup
 
